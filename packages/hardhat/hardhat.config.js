@@ -23,7 +23,7 @@ const { isAddress, getAddress, formatUnits, parseUnits } = utils;
 */
 
 //
-// Select the network you want to deploy to here:
+// Select the network you want to deploy to here: s
 //
 const defaultNetwork = "localhost";
 
